@@ -1,0 +1,14 @@
+.form-control {
+	width: 60%;
+}
+
+h5 {
+	font-weight: bold;
+}
+
+#child-circle-add-edit button {
+	width: 40%;
+	margin: 0 auto;
+	display: block;
+	margin-top: 20px;
+}
